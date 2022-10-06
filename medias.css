@@ -1,0 +1,20 @@
+    /* Below 750 PX */
+@media (max-width: 46.875em ) {
+    html {
+        font-size: 50% !important;
+    }
+}
+
+    /* Below 600 PX */
+@media (max-width: 37.5em) {
+    html {
+        font-size: 40% !important;
+    }
+}
+
+    /* Below 500 PX */
+@media (max-width: 31.25em) {
+    html {
+        font-size: 29% !important;
+    }
+}
